@@ -10,5 +10,4 @@ updates:
     schedule:
       interval: "daily"
       time: "18:00"
-      # Use Japan Standard Time (UTC +09:00)
       timezone: "America/Denver"
